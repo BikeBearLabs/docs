@@ -2,11 +2,13 @@
 sidebar_position: 2
 ---
 
-# Overview on Creating, Editing, & Deleting Posts
+# Overview on Creating, Editing, & Deleting Posts (Cheatsheet)
 
 In this article, you'll be shown generally, how to create, edit, and delete posts in WordPress. You'll also learn about additional features like cloning posts, quick editing, excerpts, featured images, rearranging posts, categories, tags, taxonomies, custom posts, editing permalinks, and trash management.
 
+:::info
 Before we start, make sure you've successfully [logged in to your WordPress Dashboard](wordpress/introduction/auth/index.md) & are navigated into it.
+:::
 
 ## Creating a Post
 
