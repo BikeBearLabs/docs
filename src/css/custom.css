@@ -1,0 +1,46 @@
+/* https://github.com/facebook/docusaurus/issues/3955#issuecomment-1521944593 */
+
+:root {
+  --ifm-color-primary: hsl(50, 98%, 35%);
+  --ifm-color-primary-dark: hsl(50, 98%, 32%);
+  --ifm-color-primary-darker: hsl(50, 98%, 30%);
+  --ifm-color-primary-darkest: hsl(50, 98%, 25%);
+  --ifm-color-primary-light: hsl(50, 98%, 39%);
+  --ifm-color-primary-lighter: hsl(50, 98%, 40%);
+  --ifm-color-primary-lightest: hsl(50, 98%, 46%);
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+:root[data-theme='dark'] {
+  --ifm-color-primary: hsl(50, 68%, 45%);
+  --ifm-color-primary-dark: hsl(50, 68%, 41%);
+  --ifm-color-primary-darker: hsl(50, 68%, 38%);
+  --ifm-color-primary-darkest: hsl(50, 68%, 32%);
+  --ifm-color-primary-light: hsl(50, 68%, 50%);
+  --ifm-color-primary-lighter: hsl(50, 68%, 52%);
+  --ifm-color-primary-lightest: hsl(50, 68%, 59%);
+  --ifm-color-gray-100: hsl(240, 0%, 96%);
+  --ifm-color-gray-200: hsl(240, 0%, 83%);
+  --ifm-color-gray-300: hsl(240, 0%, 57%);
+  --ifm-color-gray-400: hsl(240, 2%, 42%);
+  --ifm-color-gray-500: hsl(240, 3%, 37%);
+  --ifm-color-gray-600: hsl(240, 4%, 20%);
+  --ifm-color-gray-700: hsl(240, 4%, 12%);
+  --ifm-color-gray-800: hsl(240, 4%, 9%);
+  --ifm-color-gray-900: hsl(240, 4%, 8%);
+  --ifm-background-color: #0c0c0d;
+  --ifm-background-surface-color: #131314;
+  --ifm-menu-color-background-active: #1b1b1c;
+  --ifm-menu-color-background-hover: var(--ifm-background-surface-color);
+  --ifm-breadcrumb-item-background-active:var(--ifm-menu-color-background-active);
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.05);
+}
+
+:root[data-theme='dark'] .theme-code-block {
+  --prism-background-color: var(--ifm-background-surface-color) !important;
+}
+
+:root[data-theme='dark'] .prism-code {
+  background-color: var(--prism-background-color) !important;
+}
