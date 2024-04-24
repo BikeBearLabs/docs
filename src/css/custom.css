@@ -45,26 +45,26 @@
   background-color: var(--prism-background-color) !important;
 }
 
-li:has(> h1) {
+li:has(> h1)::marker {
   font-size: var(--ifm-h1-font-size);
 }
 
-li:has(> h2) {
+li:has(> h2)::marker {
   font-size: var(--ifm-h2-font-size);
 }
 
-li:has(> h3) {
+li:has(> h3)::marker {
   font-size: var(--ifm-h3-font-size);
 }
 
-li:has(> h4) {
+li:has(> h4)::marker {
   font-size: var(--ifm-h4-font-size);
 }
 
-li:has(> h5) {
+li:has(> h5)::marker {
   font-size: var(--ifm-h5-font-size);
 }
 
-li:has(> h6) {
+li:has(> h6)::marker {
   font-size: var(--ifm-h6-font-size);
 }
