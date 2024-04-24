@@ -2,6 +2,11 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+### Editing
+
+You can use StackEdit to create/read/update/delete content of the docs:
+https://stackedit.io/app#providerId=githubWorkspace&owner=BikeBearLabs&repo=docs&branch=main&path=docs%2F
+
 ### Installation
 
 ```
