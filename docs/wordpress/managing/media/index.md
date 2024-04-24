@@ -22,7 +22,7 @@ Use online tools or image compression software to reduce the file size without s
 Compressing files, especially images, helps in reducing load times and improving website speed, which is crucial for user experience and SEO.
 
 1. ## Upload Files
- In the Media Library, you'll see an "Add New" button at the top. Click on it.
+	In the Media Library, you'll see an "Add New" button at the top. Click on it.
 You can either drag and drop files into the designated area or click on the "Select Files" button to browse your computer and select the files you want to upload.
 Select the file(s) you want to upload from your computer and click "Open" (or your system's equivalent).
 WordPress will start uploading the file(s) to your media library. You'll see a progress bar indicating the upload status.
