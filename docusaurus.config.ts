@@ -4,20 +4,21 @@ import type * as Preset from '@docusaurus/preset-classic';
 import lunrSearch from 'docusaurus-lunr-search';
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Bike Bear Docs',
+  tagline: 'Maintenance documentation for Bike Bear-made sites',
   favicon: 'img/favicon.ico',
+  trailingSlash: false,
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://bikebearlabs.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'BikeBearLabs', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -37,7 +38,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/bikebear/docs/edit/main',
+            'https://github.com/bikebearlabs/docs/edit/main',
           routeBasePath: '/',
           sidebarCollapsed: false,
         },
@@ -103,7 +104,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/bikebear/docs',
+              href: 'https://github.com/bikebearlabs/docs',
             },
           ],
         },
