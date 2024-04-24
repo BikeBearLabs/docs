@@ -45,7 +45,7 @@ Before we start, make sure you've successfully [logged in to your WordPress Dash
 
 1. ## Cloning & Hiding sections (optional)
 
-	If you're concerned about potentially breaking the page, consider cloning the section you wish to edit first and then hiding it. This process serves as a backup for the existing section, offering a valuable safety net for reverting back to the previous version or referring to it if needed. You might as well cloning the entire page from page list view and leave it as a draft to have a complete backup for entire page.
+	If you're concerned about potentially breaking the page, consider cloning the section you wish to edit first and then hiding it. This process serves as a backup for the existing section, offering a valuable safety net for reverting back to the previous version or referring to it if needed. You might as well cloning the entire page from page list view and leave it as a draft to have a complete backup for entire page. test
 
 	![image](https://github.com/BikeBearLabs/docs/assets/167945971/15ee31de-9f80-4167-83b5-f7f6b03a9923)
 
