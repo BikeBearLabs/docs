@@ -51,3 +51,4 @@ Before we start, make sure you've successfully [logged in to your WordPress Dash
 
 	![image](https://github.com/BikeBearLabs/docs/assets/167945971/888d084c-bbf1-40dc-8bfb-b1686af4a6c6)
 
+![image](https://github.com/BikeBearLabs/docs/assets/167963453/eb6caf8c-bf98-4d20-bfcd-5d94e150d637)
